@@ -24,6 +24,10 @@ print(Country)
 #Varibale Using for Python 
 #All types of variable and type
 
+'''
+Multi Line Comments
+'''
+
 Name="Onik Hasan"
 Age=26
 Country="Bangladesh"
