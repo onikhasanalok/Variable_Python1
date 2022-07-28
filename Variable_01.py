@@ -44,3 +44,22 @@ print(BACC,type(BACC))
 print(BBL,type(BBL))
 print(Alive,type(Alive))
 print(Job,type(Job))
+
+
+#What is Statement?
+#Answer: If we define somthing as like name or age it's called statements.
+#Example: in below
+
+name="Lira the Ant Mission"
+Duration=60
+a=name
+print(a,"and Movie Duration: ",Duration,"Minitues")
+
+#What is Expression?
+#Answer: If we define somthing as like operator with integer value then it's called Expression.
+#Example: in below
+
+a=25
+b=a+25
+c=30+b
+print(c)
